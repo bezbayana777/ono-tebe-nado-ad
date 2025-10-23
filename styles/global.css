@@ -27,6 +27,13 @@ blockquote {
 
 a {
   color: inherit;
+  font-size: 18px;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+a:hover{
+  opacity: 0.7;
 }
 
 img {
